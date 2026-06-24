@@ -54,10 +54,10 @@ All URLs live in `links.js`. Edit this file to update social profiles, project l
 
 ```js
 window.PORTFOLIO_LINKS = {
-  email:    "mailto:you@email.com",
+  email:    "mailto:saaeb@gmail.com",
   github:   "https://github.com/yourhandle",
-  resume:   "https://drive.google.com/...",
-  // ... projects, social, formspree endpoint
+  resume:   "https://drive.google.com/uc?export=download&id=1oRHEwywtwyZj0X9NkOuZcfZQ3OEGFQ1Y",
+  // ... projects, socialt
 };
 ```
 
@@ -68,8 +68,8 @@ window.PORTFOLIO_LINKS = {
 No build step required. Just open `index.html` in a browser, or deploy the folder to any static host (Netlify, Vercel, GitHub Pages).
 
 ```bash
-git clone https://github.com/saaeb1oq7/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/saaeb1oq7/Saaeb.git
+cd <>
 # Open index.html in your browser
 ```
 

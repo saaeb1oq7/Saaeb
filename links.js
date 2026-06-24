@@ -14,7 +14,7 @@ window.PORTFOLIO_LINKS = {
   github: "https://github.com/saaeb1oq7",
 
   // Downloadable CV/Resume PDF URL
-  resume: "https://drive.google.com/uc?export=download&id=19klHIRoUgFCEsuiZfLcMuw4gD-qu0AbN",
+  resume: "https://drive.google.com/uc?export=download&id=1oRHEwywtwyZj0X9NkOuZcfZQ3OEGFQ1Y",
 
   // Social media & additional platforms
   twitter: "https://x.com/Saaebkirkuk",
