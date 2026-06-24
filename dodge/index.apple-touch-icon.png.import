@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dm6bjydog2v5x"
-path="res://.godot/imported/Squid Running void game.png-7cd7f2ae061fb83bf950e90e2139291c.ctex"
+uid="uid://brbuvq670av7c"
+path="res://.godot/imported/index.apple-touch-icon.png-bbafab527570932523d25f1c7be8b54f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://SimpleGameHTML/Squid Running void game.png"
-dest_files=["res://.godot/imported/Squid Running void game.png-7cd7f2ae061fb83bf950e90e2139291c.ctex"]
+source_file="res://dodge/index.apple-touch-icon.png"
+dest_files=["res://.godot/imported/index.apple-touch-icon.png-bbafab527570932523d25f1c7be8b54f.ctex"]
 
 [params]
 

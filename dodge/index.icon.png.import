@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dfcuhn12ka2l7"
-path="res://.godot/imported/Squid Running void game.icon.png-7eadc57676bdb6a1e253279dff3529ff.ctex"
+uid="uid://41xj5whjt635"
+path="res://.godot/imported/index.icon.png-97f612229edf48cc163d6bcd671bb338.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://SimpleGameHTML/Squid Running void game.icon.png"
-dest_files=["res://.godot/imported/Squid Running void game.icon.png-7eadc57676bdb6a1e253279dff3529ff.ctex"]
+source_file="res://dodge/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-97f612229edf48cc163d6bcd671bb338.ctex"]
 
 [params]
 
